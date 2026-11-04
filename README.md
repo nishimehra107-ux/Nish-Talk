@@ -1,4 +1,4 @@
-# 📹 NISH-TALK
+# 📹 NISH-TALK 📹
 
 A modern, mobile-friendly group video chat app.
 
